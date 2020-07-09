@@ -31,6 +31,10 @@ Exchange of data between angular element and non angular element is happening th
 
 When user selects products and adds to Cart from the Product Search component, the product details are displayed in the Shopping Cart component.
 
+For now the use the below two product names for searching: iphone and blackberry.
+
+For demo purpose the service has hardcoded data for these two products only.
+
 More details on developing angular element can be found here: https://blog.bitsrc.io/using-angular-elements-why-and-how-part-1-35f7fd4f0457
 
 
